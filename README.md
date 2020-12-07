@@ -28,6 +28,15 @@ Based on all my prior information I gathered I designed two different user perso
 
 Link to UX storytelling/scenarios: https://github.com/sebdills/DH150-Sebastien-Dills-Assignment5
 
+![alt_text](https://github.com/sebdills/DH150-Assignment-1-Sebastien-Dills/blob/main/Screen%20Shot%202020-10-13%20at%203.45.05%20AM.png)
+
+![alt_text](https://github.com/sebdills/DH150-Assignment-1-Sebastien-Dills/blob/main/Screen%20Shot%202020-10-13%20at%203.45.05%20AM.png)
+
+![alt_text](https://github.com/sebdills/DH150-Assignment-1-Sebastien-Dills/blob/main/Screen%20Shot%202020-10-13%20at%203.45.05%20AM.png)
+
+![alt_text](https://github.com/sebdills/DH150-Assignment-1-Sebastien-Dills/blob/main/Screen%20Shot%202020-10-13%20at%203.45.05%20AM.png)
+
+
 ### Wireframe 
 
 
