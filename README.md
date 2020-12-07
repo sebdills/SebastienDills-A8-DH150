@@ -46,7 +46,11 @@ Link to activity: https://github.com/sebdills/DH150-SebastienDills-Assignment6
 ![alt_text](https://github.com/sebdills/SebastienDills-A8-DH150/blob/main/Screen%20Shot%202020-12-07%20at%201.58.16%20AM.png)
 
 ### High Fidelity Prototype
-Now that I was done with the low fidelity protoype, it was time to move on and try to make a interative model. I tried to make my project seem professional and legitemate by using familar icons (emojis) but this didn't work as intedend. My design seemed un-realisitc and had blank boxes making it still seem "low-fidelity". My color choices and image selection were also generally poor. I also made some mistakes while optimizing for the screen I opted to use. 
+Now that I was done with the low fidelity protoype, it was time to move on and try to make a interative model. I tried to make my project seem professional and legitemate by using familar icons (emojis) but this didn't work as intedend. My design seemed un-realisitc and had blank boxes making it still seem "low-fidelity". My color choices and image selection were also generally poor. I also made some mistakes while optimizing for the screen I opted to use. Below I've added screenshots of my first draft for the high fidelity prototype.
+
+![alt_text](https://github.com/sebdills/SebastienDills-A8-DH150/blob/main/firstwireframe.png)
+![alt_text](https://github.com/sebdills/SebastienDills-A8-DH150/blob/main/firstwireflow.png)
+
 
 
 
