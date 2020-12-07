@@ -53,7 +53,7 @@ Now that I was done with the low fidelity protoype, it was time to move on and t
 
 Upon recieving feedback from my professor I restared the process by reworking the "home" screen to feel more real and appropriate and then worked from this point. I also wanted to add more fucntions, such as favoritng an item. In addition to this I wanted to restrict the movement between screens so that there aren't any logical issues. For example prior you were able to access the cart without first having added an item to it. Removing mistakes such as these make my prototype feel more real. I also added a more colors out of the color palate I chose, used standardized icons for a more professional feel, and changed the spcacing between icons to remove clutter. 
 
-The final version of my high fiedlity prototype supports these following tasks.
+The final version of my high fiedlity prototype supports these following tasks:
 1) List items with an in-app camera in order to maintain authenticity.
 
 2) Search and categorize items via brand, year etc with detailed and manditory tags on every item.
@@ -62,6 +62,9 @@ The final version of my high fiedlity prototype supports these following tasks.
 
 4) Have an interactive map to find local listings and filter by distance/area. 
 
+Here you can access the interactive prototype:  https://www.figma.com/proto/cHc0p13fRdN5DNDySbDFqk/DH150-Assignment-7?node-id=3%3A0&scaling=scale-down
+Here you can access the original high-fidelity assignment: https://github.com/sebdills/DH150-SebastienDills-A7
 
+### Conclusion 
 
 
