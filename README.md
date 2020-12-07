@@ -37,7 +37,18 @@ Link to UX storytelling/scenarios: https://github.com/sebdills/DH150-Sebastien-D
 ![alt_text](https://github.com/sebdills/SebastienDills-A8-DH150/blob/main/meganscenario.png)
 
 
-### Wireframe 
+### Wireframe and Low-Fidelity Prototypes
+To begin desiging my initial wireframes and low-fielity prototype, I downloaded a bunch of retail apps on my phone to study their designs. I wanted to stick to a familar format. I knew the basic design structure I wanted to cover and the 3 main actions I wanted to include. These were specifcally having a map/location based search function (most likely a map), detailed descriptions and categories on all items, and adding lisitngs within the app (camera included). Putting myself in the mindset that I would need to interact with the peices of paper like an app made the process much easier. Thinking intuitivly through the whole time of this project made a big difference. After designing the basic wireframes and wireflow connecting these actions I conducted a user pathway test. This went very smoothy and the participant quikcly understood the point of the activity. 
+
+Link to activity: https://github.com/sebdills/DH150-SebastienDills-Assignment6
+
+![alt_text](https://github.com/sebdills/SebastienDills-A8-DH150/blob/main/Screen%20Shot%202020-12-07%20at%201.58.08%20AM.png)
+![alt_text](https://github.com/sebdills/SebastienDills-A8-DH150/blob/main/Screen%20Shot%202020-12-07%20at%201.58.16%20AM.png)
+
+### High Fidelity Prototype
+Now that I was done with the low fidelity protoype, it was time to move on and try to make a interative model. I tried to make my project seem professional and legitemate by using familar icons (emojis) but this didn't work as intedend. My design seemed un-realisitc and had blank boxes making it still seem "low-fidelity". My color choices and image selection were also generally poor. I also made some mistakes while optimizing for the screen I opted to use. 
+
+
 
 
 
