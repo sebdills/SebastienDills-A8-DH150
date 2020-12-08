@@ -28,15 +28,13 @@ Based on all my prior information I gathered I designed two different user perso
 
 Link to UX storytelling/scenarios: https://github.com/sebdills/DH150-Sebastien-Dills-Assignment5
 
-<img src=“https://github.com/sebdills/SebastienDills-A8-DH150/christinebio.png” alt=“No middleman”>
-
 ![alt_text](https://sebdills.github.io/SebastienDills-A8-DH150/christinebio.png)
 
-![alt_text](https://github.com/sebdills/SebastienDills-A8-DH150/blob/main/meganbio.png)
+![alt_text](https://sebdills.github.io/SebastienDills-A8-DH150/meganbio.png)
 
-![alt_text](https://github.com/sebdills/SebastienDills-A8-DH150/blob/main/christinescenario.png)
+![alt_text](https://sebdills.github.io/SebastienDills-A8-DH150/christinescenario.png)
 
-![alt_text](https://github.com/sebdills/SebastienDills-A8-DH150/blob/main/meganscenario.png)
+![alt_text](https://sebdills.github.io/SebastienDills-A8-DH150/meganscenario.png)
 
 
 ### Wireframe Low-Fidelity Prototypes
@@ -44,7 +42,7 @@ To begin designing my initial wireframes and low-fidelity prototype, I downloade
 
 Link to activity: https://github.com/sebdills/DH150-SebastienDills-Assignment6
 
-![alt_text](https://github.com/sebdills/SebastienDills-A8-DH150/blob/main/Screen%20Shot%202020-12-07%20at%201.58.08%20AM.png)
+![alt_text](https://sebdills.github.io/SebastienDills-A8-DH150/Screen%20Shot%202020-12-07%20at%201.58.08%20AM.png)
 
 ### Low-Fidelity Prototypes
 
@@ -52,14 +50,14 @@ After designing the basic wireframes and wireflow connecting these actions I con
 
 Link: https://github.com/sebdills/DH150-SebastienDills-Assignment6
 
-![alt_text caption](https://github.com/sebdills/SebastienDills-A8-DH150/blob/main/Screen%20Shot%202020-12-07%20at%201.58.16%20AM.png)
+![alt_text caption](https://sebdills.github.io/SebastienDills-A8-DH150/Screen%20Shot%202020-12-07%20at%201.58.16%20AM.png)
 
 
 ### High Fidelity Prototype
 Now that I was done with the low fidelity prototype, it was time to move on and try to make an interactive model. I tried to make my project seem professional and legitimate by using familiar icons (emojis) but this didn't work as intended. My design seemed un-realistic and had blank boxes making it still seem "low-fidelity". My color choices and image selection were also generally poor. I also made some mistakes while optimizing for the screen I opted to use. Below I've added screenshots of my first draft for the high fidelity prototype.
 
-![alt_text](https://github.com/sebdills/SebastienDills-A8-DH150/blob/main/firstwireframe.png)
-![alt_text](https://github.com/sebdills/SebastienDills-A8-DH150/blob/main/firstwireflow.png)
+![alt_text](https://sebdills.github.io/SebastienDills-A8-DH150/firstwireframe.png)
+![alt_text](https://sebdills.github.io/SebastienDills-A8-DH150/firstwireflow.png)
 
 Upon receiving feedback from my professor I restarted the process by reworking the "home" screen to feel more real and appropriate and then worked from this point. I also wanted to add more functions, such as favoriting an item. In addition to this, I wanted to restrict the movement between screens so that there aren't any logical issues. For example prior you were able to access the cart without first having added an item to it. Removing mistakes such as these make my prototype feel more real. I also added more colors out of the color palette I chose, used standardized icons for a more professional feel, and changed the spacing between icons to remove clutter. 
 
