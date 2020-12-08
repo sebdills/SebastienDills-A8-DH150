@@ -28,7 +28,7 @@ Based on all my prior information I gathered I designed two different user perso
 
 Link to UX storytelling/scenarios: https://github.com/sebdills/DH150-Sebastien-Dills-Assignment5
 
-<img src=“https://github.com/sebdills/SebastienDills-A8-DH150/blob/main/christinebio.png” alt=“No middleman”>
+<img src=“https://github.com/sebdills/SebastienDills-A8-DH150/christinebio.png” alt=“No middleman”>
 
 ![alt_text](https://github.com/sebdills/SebastienDills-A8-DH150/blob/main/christinebio.png)
 
