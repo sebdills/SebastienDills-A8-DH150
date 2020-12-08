@@ -30,7 +30,7 @@ Link to UX storytelling/scenarios: https://github.com/sebdills/DH150-Sebastien-D
 
 <img src=“https://github.com/sebdills/SebastienDills-A8-DH150/christinebio.png” alt=“No middleman”>
 
-![alt_text](https://github.com/sebdills/SebastienDills-A8-DH150/christinebio.png)
+![alt_text](https://sebdills.github.io/SebastienDills-A8-DH150/christinebio.png)
 
 ![alt_text](https://github.com/sebdills/SebastienDills-A8-DH150/blob/main/meganbio.png)
 
