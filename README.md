@@ -50,7 +50,7 @@ After designing the basic wireframes and wireflow connecting these actions I con
 
 Link: https://github.com/sebdills/DH150-SebastienDills-Assignment6
 
-![alt_text](https://github.com/sebdills/SebastienDills-A8-DH150/blob/main/Screen%20Shot%202020-12-07%20at%201.58.16%20AM.png)
+![alt_text caption](https://github.com/sebdills/SebastienDills-A8-DH150/blob/main/Screen%20Shot%202020-12-07%20at%201.58.16%20AM.png)
 
 
 ### High Fidelity Prototype
@@ -78,6 +78,4 @@ Here you can access the original high-fidelity assignment: https://github.com/se
 
 ### Conclusion 
 I am very satisfied with the growth and learning from this class and project. When I first looked at what the final project was meant to be I was overwhelmed at the idea, but I feel like everything was well-formatted and followed a logical progression that never made it feel like I was taking any big leaps. I am happy to have gotten some experience using Figma, I can see the carryover into my professional life as a good hard skill to have in my arsenal. The most enlightening parts of this class in my opinion were learning to criticize websites and demand more from out system-user interactions. Knowing what is poor design is the most critical part of being able to create a good design. I have found myself being more analytical and thoughtful when I engage and use online materials. I think I've learned to ask myself questions about the design of websites and be cynical of negative practices. I enjoyed the website critiques and all the opportunities I had to collect data from test subjects. I never knew so much went into web design and UI/UX as a whole. Overall this class was very educational and has carried over both in my professional aspirations and my everyday media interactions. 
-
-![alt_text](https://drive.google.com/file/d/1lQmAKc2K5tdPY8Zf68XeInPX4pJcYLKL/view?usp=sharing)
 
