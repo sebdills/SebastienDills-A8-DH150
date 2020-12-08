@@ -71,6 +71,7 @@ The final version of my high fiedlity prototype supports these following tasks:
 4) Have an interactive map to find local listings and filter by distance/area. 
 
 Here you can access the interactive prototype:  https://www.figma.com/proto/cHc0p13fRdN5DNDySbDFqk/DH150-Assignment-7?node-id=3%3A0&scaling=scale-down
+
 Here you can access the original high-fidelity assignment: https://github.com/sebdills/DH150-SebastienDills-A7
 
 ### Video Pitch
